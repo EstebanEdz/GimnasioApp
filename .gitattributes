@@ -1,0 +1,14 @@
+# Normaliza los finales de linea para que no aparezcan diffs falsos entre Windows y Linux/macOS
+* text=auto
+*.cs    text diff=csharp
+*.sql   text
+*.md    text
+*.sln   text eol=crlf
+*.csproj text
+
+# Binarios
+*.png binary
+*.jpg binary
+*.ico binary
+*.xlsx binary
+*.pdf  binary

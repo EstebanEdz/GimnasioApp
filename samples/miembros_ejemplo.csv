@@ -1,0 +1,7 @@
+Nombre;Documento;Telefono;Correo;FechaIngreso
+Karen Beltran;3001;3200000001;karen.beltran@example.com;2026-01-10
+Sebastian Rojas;3002;3200000002;sebastian.rojas@example.com;2026-01-15
+Isabella Gomez;3003;3200000003;isabella.gomez@example.com;2026-02-01
+Nicolas Pardo;;3200000004;nicolas.pardo@example.com;2026-02-05
+Manuela Ortiz;3005;3200000005;manuela.ortiz@example.com;fecha-invalida
+Tomas Alvarez;3006;3200000006;tomas.alvarez@example.com;2026-02-20
